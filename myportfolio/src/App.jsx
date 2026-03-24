@@ -5,8 +5,8 @@ import {
   Container, 
   Row, 
   Col, 
-  Card, 
-  Button, 
+  Card,
+  Button,
   Badge, 
   Form 
 } from 'react-bootstrap';
